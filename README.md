@@ -22,6 +22,28 @@
 > Renmin University of China, Tsinghua University
 
 
+<details open>
+<summary><strong>❤️ Sponsors</strong></summary>
+
+<br>
+
+<table>
+  <tr>
+    <td width="190" align="center" valign="middle">
+      <a href="https://88api.ai/sign-up?aff=QpZX">
+        <img src="./assets/88api.jpg" alt="88API Token Aggregation Platform" width="175">
+      </a>
+    </td>
+    <td>
+      <a href="https://88api.ai/sign-up?aff=QpZX"><strong>88API Token Aggregation Platform</strong></a><br>
+      Thanks to <strong>88API</strong> for sponsoring DeepAnalyze! 88API is a Hong Kong-operated, one-stop multi-model API platform offering unified access to text, image, audio, and video models for AI coding, translation, and content creation.<br><br>
+      🎁 <strong>Exclusive benefit:</strong> <a href="https://88api.ai/sign-up?aff=QpZX">Sign up through this link</a> to receive bonus API credits. International payments and invoicing are supported. API endpoint: <code>https://api.88api.ai</code>.
+    </td>
+  </tr>
+</table>
+
+</details>
+
 **DeepAnalyze** is the first agentic LLM for autonomous data science. It can autonomously complete a wide range of data-centric tasks without human intervention, supporting:
 - 🛠 **Entire data science pipeline**: Automatically perform any data science tasks such as data preparation, analysis, modeling, visualization, and report generation.
 - 🔍 **Open-ended data research**: Conduct deep research on diverse data sources, including structured data (Databases, CSV, Excel), semi-structured data (JSON, XML, YAML), and unstructured data (TXT, Markdown), and finally produce analyst-grade research reports.
@@ -33,8 +55,6 @@
 
 
 ## 🔥 News
-
-- **[2026.10.12]**: 🎉 We sincerely thank **[88API Token Aggregation Platform](https://88api.ai/sign-up?aff=QpZX)** for sponsoring DeepAnalyze! 88API is a one-stop multi-model API platform offering unified access to text, image, audio, and video AI models. **[Sign up here](https://88api.ai/sign-up?aff=QpZX)** to receive exclusive bonus credits!
 
 - **[2026.09]**: We release **[SkillAdam](https://github.com/ruc-datalab/SkillAdam)** 🚀, an easy-to-use plugin for automatically improving the skills of your AI agents. SkillAdam integrates directly with **Codex, Claude Code, Cursor Agent, and GitHub Copilot**, with simple installation and no need for a local GPU, Docker, or a separate model API key.
 
@@ -446,17 +466,6 @@ For training, please refer to [`./deepanalyze/ms-swift/requirements.txt`](./deep
  - **API Key & Related Services: HeyWhale Community** .
 
    **HeyWhale Community (www.heywhale.com) is a world-leading Chinese hands-on AI community. By providing massive data resources, practical cases, learning materials, and a wide range of AI training activities, it brings together nearly one million AI practitioners and enthusiasts to share insights, exchange ideas, collaborate, and rapidly advance their skills through practice.**
-
-- **Sponsor: [88API Token Aggregation Platform](https://88api.ai/sign-up?aff=QpZX)**
-
-  <p align="center">
-    <a href="https://88api.ai/sign-up?aff=QpZX"><img src="./assets/88api.jpg" alt="88API Token Aggregation Platform" width="640"></a>
-  </p>
-
-  We sincerely thank **88API** for sponsoring DeepAnalyze! 88API is a Hong Kong-operated, one-stop multi-model API platform providing unified access to leading text, image, audio, and video models. It supports AI coding, translation, content creation, and other AI workflows, along with international payment options, invoicing, and enterprise-oriented services.
-
-  **Exclusive bonus credits:** [Sign up through our referral link](https://88api.ai/sign-up?aff=QpZX).  
-  **API endpoint:** `https://api.88api.ai`
 
 
 ## 🖋 Citation
